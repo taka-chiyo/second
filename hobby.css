@@ -1,0 +1,22 @@
+.titles{
+  width:auto;
+  height:300px;
+  border-bottom:solid 3px brown;
+  background-image:url("PC犬.jpg");
+  background-repeat:no-repeat;
+  padding-left:600px; 
+  padding-top:100px;
+ }
+
+.code{
+  color:rgb(0, 119, 255)
+}
+
+body{
+  background-color:snow;
+  padding:30px;
+}
+
+.rep{
+  border-bottom:1px solid silver;
+}
